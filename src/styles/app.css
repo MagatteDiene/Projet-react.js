@@ -1,0 +1,10 @@
+*{
+    background-image: url(../../../../../img/blue-acrylic-texture-background.jpg);
+    
+}
+.App-header {
+    font-size:larger;
+    text-align: center;
+    border-bottom: solid 3px white;
+    color: white;
+}
